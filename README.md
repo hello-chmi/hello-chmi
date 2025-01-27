@@ -1,6 +1,3 @@
-Sure! Here's a sample profile README for the GitHub user `hello-chmi`:
-
-```markdown
 # Hello, I'm Chmi 👋
 
 Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and improving my skills. Here's a bit about me:
@@ -38,6 +35,3 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 - **[List any notable achievements or certifications]**
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi. 😊
-```
-
-Replace the placeholders with your actual information to personalize your profile README. This will give visitors a good overview of your skills, interests, and how to connect with you.
