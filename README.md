@@ -30,14 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 <!--
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
-
-<!--
 ## 🏆 Achievements
-
-- **[List any notable achievements or certifications]**
 -->
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi. 😊
