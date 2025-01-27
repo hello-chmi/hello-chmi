@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/hello-chmi)
+- [Personal Website](https://hello-chmi.github.io/)
+
+Or send me an email at mchung.92@gmail.com.
 
 <!--
 ## 📚 Latest Blog Posts
