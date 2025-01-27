@@ -1,4 +1,4 @@
-# Hello, I'm Chmi 👋
+# Hello, I'm Michelle 👋
 
 Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and improving my skills.
 
