@@ -33,5 +33,3 @@ Or send me an email at mchung.92@gmail.com.
 
 ## 🏆 Achievements
 -->
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi. 😊
