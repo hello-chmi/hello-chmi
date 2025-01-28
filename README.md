@@ -18,7 +18,7 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 
 - **Languages:** ![C++](https://img.shields.io/badge/-red?style=flat&logo=Cplusplus) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?style=flat&logo=typescript) 
 - **Frameworks:** ![npm](https://img.shields.io/badge/-npm-blue?style=flat&logo=npm) ![Node.js](https://img.shields.io/badge/-Node-blue?style=flat&logo=node.js) 
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kuberenetes-blue?style=flat&logo=kubernetes) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code) ![OpenShift](https://img.shields.io/badge/-OpenShift-red?style=flat&logo=OpenShift)
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kuberenetes-blue?style=flat&logo=kubernetes) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code) ![OpenShift](https://img.shields.io/badge/-OpenShift-red?style=flat&logo=redhatopenshift)
 
 <!--
 ## 📈 GitHub Stats
