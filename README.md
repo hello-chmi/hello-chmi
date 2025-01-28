@@ -16,9 +16,9 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![C++](https://img.shields.io/badge/-red?style=flat&logo=Cplusplus) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
-- **Frameworks:** ![Node.js](https://img.shields.io/badge/-Node-blue?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
-- **Tools:** ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code)
+- **Languages:** ![C++](https://img.shields.io/badge/-red?style=flat&logo=Cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)  ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
+- **Frameworks:** ![npm](https://img.shields.io/badge/-npm-blue?style=flat&logo=npm) ![Node.js](https://img.shields.io/badge/-Node-blue?style=flat&logo=node.js) 
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code)
 
 <!--
 ## 📈 GitHub Stats
