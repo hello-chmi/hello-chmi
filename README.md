@@ -37,5 +37,5 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 
 ## 📫 Other Stuff
 
--[Soundcloud](https://soundcloud.com/rngenie)
--[Twitch](https://www.twitch.tv/ratwme)
+- [Soundcloud](https://soundcloud.com/rngenie)
+- [Twitch](https://www.twitch.tv/ratwme)
