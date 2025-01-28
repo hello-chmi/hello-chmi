@@ -1,10 +1,10 @@
-# Hello, I'm Michelle 👋
+# Hi, I'm Michelle 👋
 
 Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and improving my skills.
 
 I'm currently a game developer at Redemption Road Games and an MSECE student at the Georgia Institute of Technology where my areas of research includes DSP, embedded technologies, and PCB design. I have previously worked at IBM as a backend software engineer for distributed cybersecurity solutions.
 
-I'm a self-described creative and enjoys making stuff both in analog and digital forms. I currently reside in Atlanta, Georgia.
+I'm a self-described creative and, and I enjoy making stuff both in analog and digital forms. I currently reside in Atlanta, Georgia.
 
 ## 🚀 About Me
 
