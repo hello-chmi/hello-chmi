@@ -17,7 +17,7 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 ## 🛠️ Technologies & Tools
 
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
-- **Frameworks:** ![Node](https://img.shields.io/badge/-Node-blue?style=flat&logo=node) ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
+- **Frameworks:** ![Node.js](https://img.shields.io/badge/-Node-blue?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code)
 
 <!--
