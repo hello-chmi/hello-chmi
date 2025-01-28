@@ -11,7 +11,6 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 
 - 🌱 I’m currently learning **React.js, console design, and microcontroller design**.
 - 💬 Ask me about **my art and music**!
-- 📫 How to reach me: **mchung.92@gmail.com**
 -->
 
 ## 🛠️ Technologies & Tools
@@ -29,7 +28,7 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hello-chmi)
-- [Personal Website](https://hello-chmi.github.io/)
+- [Email](mchung.92@gmail.com)
 
 <!--
 ## 📚 Latest Blog Posts
@@ -40,4 +39,4 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 ## 📫 Other Stuff
 
 - [Soundcloud](https://soundcloud.com/rngenie)
-- [Twitch](https://www.twitch.tv/ratwme)
+- [Personal Website](https://hello-chmi.github.io/)
