@@ -6,11 +6,13 @@ I'm currently a game developer at Redemption Road Games and an MSECE student at 
 
 I'm a self-described creative and, and I enjoy making stuff both in analog and digital forms. I currently reside in Atlanta, Georgia.
 
+<!--
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **React.js, console design, and microcontroller design**.
 - 💬 Ask me about **my art and music**!
 - 📫 How to reach me: **mchung.92@gmail.com**
+-->
 
 ## 🛠️ Technologies & Tools
 
