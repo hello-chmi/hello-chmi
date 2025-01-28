@@ -28,7 +28,7 @@ I'm a self-described creative and, and I enjoy making stuff both in analog and d
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hello-chmi)
-- [Email](mchung.92@gmail.com)
+- mchung.92@gmail.com
 
 <!--
 ## 📚 Latest Blog Posts
